@@ -13,4 +13,5 @@ pytz==2024.1
 Jinja2==3.1.4
 torch==2.0.1
 gunicorn==20.1.0  # Add this if you're deploying on Heroku
+youtube-transcript-api==0.4.1
 
