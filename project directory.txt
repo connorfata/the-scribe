@@ -1,0 +1,11 @@
+/project
+    /static
+        /css
+            styles.css
+        /js
+            main.js
+    /templates
+        index.html
+    app.py
+    requirements.txt
+    Procfile
