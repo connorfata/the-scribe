@@ -1,0 +1,11 @@
+# .slugignore
+data/
+models/
+*.log
+*.csv
+*.mp4
+*.zip
+*.tar.gz
+*.h5
+*.pth
+tests/
