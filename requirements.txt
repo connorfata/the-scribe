@@ -125,4 +125,4 @@ webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.3
-youtube-transcript-api==0.6.2
+youtube-transcript-api==0.4.1
